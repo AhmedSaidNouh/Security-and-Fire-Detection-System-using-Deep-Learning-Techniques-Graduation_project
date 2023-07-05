@@ -1,0 +1,244 @@
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\GUI-GP.exe.config
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\GUI-GP.exe
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\GUI-GP.pdb
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.csproj.SuggestedBindingRedirects.cache
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI_GP.Properties.Resources.resources
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.exe
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.pdb
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI_GP.MainGUI.resources
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI_GP.DisplayVideo.resources
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Interop.WMPLib.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\Interop.WMPLib.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.csproj.ResolveComReference.cache
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI_GP.realTimeForm.resources
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AForge.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AForge.Video.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AForge.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AForge.Video.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\obj\Debug\GUI-GP.csproj.CopyComplete
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\GUI-GP.exe.config
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\GUI-GP.exe
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\GUI-GP.pdb
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AForge.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AForge.Video.DirectShow.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AForge.Video.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AForge.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AForge.Video.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AForge.Video.DirectShow.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Interop.WMPLib.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\AxInterop.WMPLib.dll
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.csproj.AssemblyReference.cache
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\Interop.WMPLib.dll
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\AxInterop.WMPLib.dll
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.csproj.ResolveComReference.cache
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI_GP.DisplayVideo.resources
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI_GP.MainGUI.resources
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI_GP.Properties.Resources.resources
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI_GP.realTimeForm.resources
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.csproj.GenerateResource.cache
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.csproj.CoreCompileInputs.cache
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.csproj.CopyComplete
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.exe
+D:\computer scince\GP\integration\GUI-GP\obj\Debug\GUI-GP.pdb
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Buffers.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Memory.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Numerics.Vectors.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Text.Encodings.Web.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Text.Json.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.ValueTuple.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge.Core.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge.Libs.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge.MediaFramework.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge.Types.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Buffers.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Memory.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Numerics.Vectors.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Text.Encodings.Web.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Text.Json.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\System.ValueTuple.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\MediaInfoX64.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\vcomp140.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_DXP64.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_MFP64.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_MFPX64.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Audio_Enhancer_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Audio_Mixer_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_BaseFilters_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Network_Streamer_Audio_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Network_Streamer_Video_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Video_Effects_Pro_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Video_Mixer_x64.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\MediaInfo.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_DXP.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_MFP.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Audio_Effects_4.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Audio_Enhancer.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Audio_Mixer.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_BaseFilters.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Video_Effects_Pro.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\VisioForge_Video_Mixer.ax
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\avcodec-53.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\avdevice-53.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\avformat-53.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\avutil-51.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\postproc-52.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\swresample-0.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\swscale-2.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.dll.config
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.Video.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.Video.FFMPEG.dll
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.Video.xml
+D:\computer scince\GP\integration\GUI-GP\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\MediaInfoX64.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\vcomp140.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_DXP64.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_MFP64.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_MFPX64.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Audio_Enhancer_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Audio_Mixer_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_BaseFilters_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Network_Streamer_Audio_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Network_Streamer_Video_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Video_Effects_Pro_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Video_Mixer_x64.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\MediaInfo.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_DXP.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_MFP.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Audio_Effects_4.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Audio_Enhancer.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Audio_Mixer.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_BaseFilters.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Video_Effects_Pro.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge_Video_Mixer.ax
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\avcodec-53.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\avdevice-53.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\avformat-53.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\avutil-51.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\postproc-52.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\swresample-0.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\swscale-2.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.dll.config
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.Video.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Buffers.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Memory.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Text.Json.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.ValueTuple.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge.Core.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge.Libs.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\VisioForge.Types.dll
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.Video.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Buffers.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Memory.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Text.Json.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\khale\source\repos\GUI-GP\GUI-GP\bin\Debug\System.ValueTuple.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\MediaInfoX64.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\vcomp140.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_DXP64.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_MFP64.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_MFPX64.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Audio_Enhancer_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Audio_Mixer_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_BaseFilters_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Network_Streamer_Audio_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Network_Streamer_Video_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Video_Effects_Pro_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Video_Mixer_x64.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\MediaInfo.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_DXP.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_MFP.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Audio_Effects_4.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Audio_Enhancer.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Audio_Mixer.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_BaseFilters.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Video_Effects_Pro.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge_Video_Mixer.ax
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\avcodec-53.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\avdevice-53.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\avformat-53.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\avutil-51.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\postproc-52.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\swresample-0.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\swscale-2.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.dll.config
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\GUI-GP.exe.config
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\GUI-GP.exe
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\GUI-GP.pdb
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.Video.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.Video.FFMPEG.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AForge.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AForge.Video.DirectShow.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AForge.Video.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Buffers.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Memory.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Numerics.Vectors.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Text.Encodings.Web.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Text.Json.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.ValueTuple.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge.Core.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge.Libs.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge.MediaFramework.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\VisioForge.Types.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.Video.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Accord.Video.FFMPEG.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AForge.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AForge.Video.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AForge.Video.DirectShow.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Buffers.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Memory.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Numerics.Vectors.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Text.Encodings.Web.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Text.Json.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\System.ValueTuple.xml
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\Interop.WMPLib.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\bin\Debug\AxInterop.WMPLib.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.csproj.AssemblyReference.cache
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\Interop.WMPLib.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\AxInterop.WMPLib.dll
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.csproj.ResolveComReference.cache
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI_GP.DisplayVideo.resources
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI_GP.MainGUI.resources
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI_GP.Properties.Resources.resources
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI_GP.realTimeForm.resources
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.csproj.GenerateResource.cache
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.csproj.CoreCompileInputs.cache
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.csproj.CopyComplete
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.exe
+D:\computer scince\GP\third sem\project\gui\GUI-GP\obj\Debug\GUI-GP.pdb
